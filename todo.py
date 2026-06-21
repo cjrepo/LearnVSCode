@@ -30,4 +30,5 @@ def list_tasks():
 
 add_task("Buy milk")
 add_task("Finish VS Code tutorial")
+add_task("Do Yoga")
 list_tasks()
